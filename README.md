@@ -21,7 +21,8 @@ Response format:
     "id": <random_id>,
     "first_name": "John <md5 hash of 'John'>",
     "last_name": "Doe <md5 hash of 'Doe'>",
-    "current_time": strftime("%F %T %z")
+    "current_time": strftime("%F %T %z"),
+    "say": "Dlang is the best"
 }
 ```
 

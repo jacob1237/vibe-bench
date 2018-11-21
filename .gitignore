@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+bench
+bench.so
+bench.dylib
+bench.dll
+bench.a
+bench.lib
+bench-test-*
+*.exe
+*.o
+*.obj
+*.lst

@@ -1,0 +1,17 @@
+{
+	"name": "bench",
+	"license": "MIT",
+	"authors": [
+		"Jacob"
+	],
+	"dependencies": {
+		"vibe-core": "~>1.4.4",
+		"vibe-d:http": "~>0.8.2",
+		"asdf": "~>0.3.2"
+	},
+	"description": "Orel Dlang test",
+	"copyright": "Copyright © 2018, Jacob",
+	"dflags": [
+		"-mattr=+sse4.2"
+	]
+}
